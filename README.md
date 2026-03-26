@@ -1,3 +1,6 @@
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Alt Text">
+
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
 <h3 align="center">Learning MERN Stack | Full Stack Web Developer</h3>
 

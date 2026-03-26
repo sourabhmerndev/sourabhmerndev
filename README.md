@@ -34,6 +34,9 @@ Node.js &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 Express.js &nbsp;&nbsp;&nbsp;
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+MongoDB &nbsp;&nbsp;&nbsp;
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhmerndev&show_icons=true&locale=en&layout=compact" alt="sourabhmerndev" /></p>

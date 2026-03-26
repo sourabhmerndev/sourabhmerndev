@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
 <h3 align="center">Learning MERN Stack | Full Stack Web Developer</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhmerndev" alt="sourabhmerndev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sxuxabh" target="blank"><img src="https://img.shields.io/twitter/follow/sxuxabh?logo=twitter&style=for-the-badge" alt="sxuxabh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>

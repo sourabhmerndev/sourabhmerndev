@@ -58,7 +58,8 @@ MongoDB &nbsp;&nbsp;&nbsp;
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhmerndev&show_icons=true&locale=en&layout=compact" alt="sourabhmerndev" /></p>
+![snake gif](https://github.com/userharsh911/userharsh911/blob/output/github-snake-dark.svg)
+![](https://komarev.com/ghpvc/?username=userharsh911&color=blue)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhmerndev&show_icons=true&locale=en" alt="sourabhmerndev" /></p>
 
